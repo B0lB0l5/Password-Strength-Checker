@@ -39,14 +39,3 @@ Strong: Password is at least 8 characters long, contains both lowercase and uppe
 Moderate: Password meets 3 of the 4 strength criteria.
 
 Weak: Password meets less than 3 of the strength criteria.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-csharp
-Copy
-Edit
-
-### Notes:
-- Replace `https://github.com/yourusername/password-strength-checker.git` with the actual URL of your GitHub repository.
-- Update the "LICENSE" link with the appropriate license information if you choose a different license for the repository.
